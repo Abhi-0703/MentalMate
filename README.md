@@ -1,4 +1,7 @@
 # MentalMate-AI-Chatbot
+![Screenshot (4)](https://github.com/user-attachments/assets/55c9db7b-012e-41ef-b3ff-380e6e4a86b6)
+![Screenshot (10)](https://github.com/user-attachments/assets/558db7c9-04e5-4a20-b210-5dcfdec9a830)
+![Screenshot (13)](https://github.com/user-attachments/assets/1e0caaed-6439-4689-b9d0-6182f1b3ce08)
 ## Welcome to the AI Therapist Chatbot project
 
 An innovative and empathetic virtual assistant designed to provide therapeutic conversations. This chatbot leverages advanced AI technology and prompt engineering to offer supportive and thoughtful responses, simulating a real mental health therapist.
