@@ -32,12 +32,12 @@ This project integrates several technologies to deliver a seamless user experien
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/MentalMate-AI-Chatbot-.git
+    git clone https://github.com/Abhi-0703/MentalMate.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```sh
-    cd MentalMate-AI-Chatbot-
+    cd MentalMate
     ```
 
 3. **Install Dependencies**:
